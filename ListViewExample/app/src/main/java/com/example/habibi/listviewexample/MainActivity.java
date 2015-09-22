@@ -17,7 +17,7 @@ import android.widget.Toast;
 import java.util.ArrayList;
 import java.util.List;
 
-
+//Donio was here making an update on his desktop 
 public class MainActivity extends Activity {
 
     private List<CoffeeShops> myCoffeeShops = new ArrayList<CoffeeShops>();
